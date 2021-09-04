@@ -1,0 +1,58 @@
+body {
+    margin: 0;
+    background-color: #2C2F33;
+}
+
+.header {
+    background-color: #f1f1f1;
+    padding: 30px;
+    text-align: center;
+}
+
+#navbar {
+    overflow: hidden;
+    background-color: #23272A;
+    font-family: 'Roboto', sans-serif;
+}
+
+#navbar a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+#navbar a:hover {
+    background-color: #dddddd;
+    color: #23272A;
+}
+
+#navbar a.active {
+    background-color: #f91362;
+    color: white;
+}
+
+.sticky {
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+.content {
+    padding: 16px;
+}
+
+.title {
+    font-family: 'Roboto', sans-serif;
+    font-size: 72;
+    text-align: center;
+    color: white;
+}
+.subtitle {
+    font-family: 'Roboto', sans-serif;
+    font-size: 20;
+    text-align: center;
+    color: white;
+}

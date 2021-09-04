@@ -1,0 +1,10 @@
+{
+  "Name":"ShareX Uploader",
+  "RequestType":"POST",
+  "RequestURL":"https://domain.dns/upload.php",
+  "Body":"MultipartFormData",
+  "Arguments":{
+    "password":"key"
+    },
+  "FileFormName":"file"
+}
