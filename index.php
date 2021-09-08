@@ -28,7 +28,7 @@
           ?>
 
 <head>
-    <link rel="stylesheet" href="https://psyro.de/sharx/style.css" />
+    <link rel="stylesheet" href="https://cdn.clynt.de/sharx/style.css" />
     <link href="https://cdn.jsdelivr.net/npm/bootstrap-dark-5@1.0.2/dist/css/bootstrap-night.min.css" rel="stylesheet">
 		<link rel="stylesheet" href="style.css">
               <title><?php echo $_GET["f"]; ?></title>
