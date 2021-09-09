@@ -2,7 +2,7 @@
 <html style="height:100%">
   <?php
 
-    require_once __DIR__ . '/protected/config.php';
+    require_once __DIR__ . '/protected/main.php';
     error_reporting(0);
     $protocol = isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] != "on" ? "https" : "http" . "://";
     $fileurl = $protocol . domain . images . "/$hash.$type";

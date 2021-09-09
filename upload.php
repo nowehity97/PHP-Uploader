@@ -1,6 +1,6 @@
 <?php
 
-require_once __DIR__ . '/protected/config.php';
+require_once __DIR__ . '/protected/main.php';
 
   $protocol = isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] != "on" ? "https" : "http" . "://";
   $hash = substr(str_shuffle(str_repeat("0123456789abcdefghijklmnopqrstuvwxyz", 5)), 0, 8);
