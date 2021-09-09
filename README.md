@@ -8,6 +8,12 @@
 
 Changelog: 
 ```toml
+Changelog 93.09.21:
+    [+] Automatic delete + bakcup 
+    [+] Better includes
+```
+
+```toml
 Changelog 03.09.21:
     [+] Better security
     [+] Better image preview
