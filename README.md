@@ -9,7 +9,7 @@
 Changelog: 
 ```toml
 Changelog 93.09.21:
-    [+] Automatic delete + bakcup 
+    [+] Automatic delete + backup 
     [+] Better includes
 ```
 
