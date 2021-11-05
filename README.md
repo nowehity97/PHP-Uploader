@@ -25,4 +25,6 @@ Changelog 03.09.21:
 
 * GitHub: [@Clynt](https://github.com/clynt707)
 
+## Snippets
+* tdebatty: [auto delete] https://github.com/tdebatty
 ## Show your support Give a ⭐️ if you like this Project!
